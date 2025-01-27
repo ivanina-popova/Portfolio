@@ -1,31 +1,29 @@
-Category: Autos & Vehicles
-
-Region,tesla: (12/6/19 - 12/6/24)
-Sofia City Province,100
-Targovishte Province,87
-Varna,76
-Dobrich Province,72
-Shumen Province,71
-Burgas,70
-Ruse,66
-Veliko Tarnovo Province,66
-Montana Province,66
-Plovdiv Province,64
-Sofia Province,64
-Stara Zagora,60
-Smoljan,60
-Blagoevgrad Province,56
-Haskovo Province,55
-Lovec,54
-Razgrad,54
-Pleven Province,51
-Gabrovo,50
-Pazardzik,49
-Kardzhali Province,49
-Jambol,49
-Silistra,48
-Pernik,44
-Sliven Province,43
-Kyustendil Province,40
-Vraca,36
-Vidin,35
+﻿region;code;tesla
+Sofia City Province;SOF;100
+Targovishte Province;TGV;87
+Varna;VAR;76
+Dobrich Province;DOB;72
+Shumen Province;SHU;71
+Burgas;BGS;70
+Ruse;RSE;66
+Veliko Tarnovo Province;VTR;66
+Montana Province;MON;66
+Plovdiv Province;PDV;64
+Sofia Province;SFO;64
+Stara Zagora;SZR;60
+Smoljan;SML;60
+Blagoevgrad Province;BLG;56
+Haskovo Province;HKV;55
+Lovec;LOV;54
+Razgrad;RAZ;54
+Pleven Province;PVN;51
+Gabrovo;GAB;50
+Pazardzik;PAZ;49
+Kardzhali Province;KRZ;49
+Jambol;JAM;49
+Silistra;SLS;48
+Pernik;PER;44
+Sliven Province;SLV;43
+Kyustendil Province;KNL;40
+Vraca;VRC;36
+Vidin;VID;35
