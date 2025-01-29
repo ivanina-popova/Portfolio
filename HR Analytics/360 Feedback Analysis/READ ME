@@ -1,0 +1,3 @@
+360 Employee Feedback Survey Results Analysis Report
+
+The 360 Feedback Survey Results Analysis Report is a data analytics project in the area of Human Resources, showcasing how insights can be derived from both structured and unstructured feedback provided by various feedback giver roles, including Managers, Peers, Direct Reports, and other contributors. The visualizations, programmed using Python, utilize powerful libraries such as Matplotlib, Seaborn, and Plotly to transform the raw data into clear, actionable insights, offering a comprehensive analysis of feedback across different perspectives.
